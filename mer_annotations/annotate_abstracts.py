@@ -2,10 +2,6 @@ import subprocess
 import os
 import copy
 
-
-def shellquote(s):
-    return "'" + s.replace("'", "'\\''") + "'"
-
 # After putting the HPO lexicon on the data/ folder and processing it using the "produce_data_files.sh" script
 
 
