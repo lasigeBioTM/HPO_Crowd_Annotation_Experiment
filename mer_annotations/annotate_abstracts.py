@@ -23,14 +23,6 @@ for abstract_file_name in abstract_file_names:
     with open(abstract_texts_path + abstract_file_name) as abstract_file:
         abstract_text = abstract_file.read()
 
-        abstract_text_before_processing = copy.copy(abstract_text)
-
-        # Removes newlines from abstracts.  Workaround of a bug in MER.
-        abstract_text = abstract_text.replace('\n', ' ')
-
-        # Confirm that the length of the text was not altered during processing
-        assert len(abstract_text_before_processing) == len(abstract_text)
-
         # Fills template
         bash_command_template[2] = abstract_text
 
