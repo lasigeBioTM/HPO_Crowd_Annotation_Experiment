@@ -1,0 +1,26 @@
+#FORMAT=WebAnno TSV 3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity|value
+
+
+#Text=We report a type C brachydactyly transmitted through four generations, with incomplete penetrance and feet abnormalities in the proposita.
+1-1	0-2	We	_
+1-3	3-9	report	_
+1-5	10-11	a	_
+1-7	12-16	type	_
+1-9	17-18	C	_
+1-11	19-32	brachydactyly	HPO[0]
+1-13	33-44	transmitted	_
+1-15	45-52	through	_
+1-17	53-57	four	_
+1-19	58-69	generations	_
+1-20	69-70	,	_
+1-22	71-75	with	_
+1-24	76-86	incomplete	HPO[1]
+1-26	87-97	penetrance	HPO[1]
+1-28	98-101	and	_
+1-30	102-106	feet	_
+1-32	107-120	abnormalities	_
+1-34	121-123	in	_
+1-36	124-127	the	_
+1-38	128-137	proposita	_
+1-39	137-138	.	_

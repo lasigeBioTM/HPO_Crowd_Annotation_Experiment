@@ -1,0 +1,43 @@
+#FORMAT=WebAnno TSV 3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity|value
+
+
+#Text=The authors report a new case of Townes-Brocks syndrome with cardiac defect, ossicular anomalies and dominant transmission. The intrafamilial variability of the phenotype and the difficulty of diagnosis in isolated cases are underlined.
+1-1	0-3	The	_
+1-3	4-11	authors	_
+1-5	12-18	report	_
+1-7	19-20	a	_
+1-9	21-24	new	_
+1-11	25-29	case	_
+1-13	30-32	of	_
+1-15	33-39	Townes	_
+1-16	39-40	-	_
+1-17	40-46	Brocks	_
+1-19	47-55	syndrome	_
+1-21	56-60	with	_
+1-23	61-68	cardiac	_
+1-25	69-75	defect	_
+1-26	75-76	,	_
+1-28	77-86	ossicular	_
+1-30	87-96	anomalies	_
+1-32	97-100	and	_
+1-34	101-109	dominant	_
+1-36	110-122	transmission	_
+1-37	122-123	.	_
+1-39	124-127	The	_
+1-41	128-141	intrafamilial	_
+1-43	142-153	variability	_
+1-45	154-156	of	_
+1-47	157-160	the	_
+1-49	161-170	phenotype	_
+1-51	171-174	and	_
+1-53	175-178	the	_
+1-55	179-189	difficulty	_
+1-57	190-192	of	_
+1-59	193-202	diagnosis	_
+1-61	203-205	in	_
+1-63	206-214	isolated	HPO[0]
+1-65	215-220	cases	HPO[0]
+1-67	221-224	are	_
+1-69	225-235	underlined	_
+1-70	235-236	.	_

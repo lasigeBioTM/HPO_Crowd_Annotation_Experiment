@@ -1,0 +1,48 @@
+#FORMAT=WebAnno TSV 3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity|value
+
+
+#Text=A father and son are described with an autosomal dominant branchial cleft syndrome resembling both the branchio-oto-renal and the branchio-oculo-facial syndrome. Both syndromes may represent variant expressions of the same autosomal dominant gene.
+1-1	0-1	A	_
+1-3	2-8	father	_
+1-5	9-12	and	_
+1-7	13-16	son	_
+1-9	17-20	are	_
+1-11	21-30	described	_
+1-13	31-35	with	_
+1-15	36-38	an	_
+1-17	39-48	autosomal	HPO[0]
+1-19	49-57	dominant	HPO[0]
+1-21	58-67	branchial	_
+1-23	68-73	cleft	_
+1-25	74-82	syndrome	_
+1-27	83-93	resembling	_
+1-29	94-98	both	_
+1-31	99-102	the	_
+1-33	103-111	branchio	_
+1-34	111-112	-	_
+1-35	112-115	oto	_
+1-36	115-116	-	_
+1-37	116-121	renal	_
+1-39	122-125	and	_
+1-41	126-129	the	_
+1-43	130-138	branchio	_
+1-44	138-139	-	_
+1-45	139-144	oculo	_
+1-46	144-145	-	_
+1-47	145-151	facial	_
+1-49	152-160	syndrome	_
+1-50	160-161	.	_
+1-52	162-166	Both	_
+1-54	167-176	syndromes	_
+1-56	177-180	may	_
+1-58	181-190	represent	_
+1-60	191-198	variant	_
+1-62	199-210	expressions	_
+1-64	211-213	of	_
+1-66	214-217	the	_
+1-68	218-222	same	_
+1-70	223-232	autosomal	HPO[1]
+1-72	233-241	dominant	HPO[1]
+1-74	242-246	gene	_
+1-75	246-247	.	_

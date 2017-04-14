@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity|value
+
+
+#Text=Six patients with typical features of the multiple basal cell nevus syndrome were studied cytogenetically, using prometaphase G-banding and C-banding. Three patients were from one family and the others were sporadic cases. No cytogenetic marker of the disease was identified using these techniques.
+1-1	0-3	Six	_
+1-3	4-12	patients	_
+1-5	13-17	with	_
+1-7	18-25	typical	_
+1-9	26-34	features	_
+1-11	35-37	of	_
+1-13	38-41	the	_
+1-15	42-50	multiple	_
+1-17	51-56	basal	HPO[0]
+1-19	57-61	cell	HPO[0]
+1-21	62-67	nevus	HPO[0]|HPO[1]
+1-23	68-76	syndrome	_
+1-25	77-81	were	_
+1-27	82-89	studied	_
+1-29	90-105	cytogenetically	_
+1-30	105-106	,	_
+1-32	107-112	using	_
+1-34	113-125	prometaphase	_
+1-36	126-127	G	_
+1-37	127-128	-	_
+1-38	128-135	banding	_
+1-40	136-139	and	_
+1-42	140-141	C	_
+1-43	141-142	-	_
+1-44	142-149	banding	_
+1-45	149-150	.	_
+1-47	151-156	Three	_
+1-49	157-165	patients	_
+1-51	166-170	were	_
+1-53	171-175	from	_
+1-55	176-179	one	_
+1-57	180-186	family	_
+1-59	187-190	and	_
+1-61	191-194	the	_
+1-63	195-201	others	_
+1-65	202-206	were	_
+1-67	207-215	sporadic	HPO[2]
+1-69	216-221	cases	_
+1-70	221-222	.	_
+1-72	223-225	No	_
+1-74	226-237	cytogenetic	_
+1-76	238-244	marker	_
+1-78	245-247	of	_
+1-80	248-251	the	_
+1-82	252-259	disease	_
+1-84	260-263	was	_
+1-86	264-274	identified	_
+1-88	275-280	using	_
+1-90	281-286	these	_
+1-92	287-297	techniques	_
+1-93	297-298	.	_

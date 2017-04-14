@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity|value
+
+
+#Text=A mother and daughter with Gorlin syndrome with similar neuroradiological findings are reported. These include calcification of the falx cerebri and tentorium cerebelli and dysgenesis of the corpus callosum and vermis. Vermian dysgenesis was detected in both mother and daughter suggesting a previously unrecognized finding associated with Gorlin syndrome.
+1-1	0-1	A	_
+1-3	2-8	mother	_
+1-5	9-12	and	_
+1-7	13-21	daughter	_
+1-9	22-26	with	_
+1-11	27-33	Gorlin	_
+1-13	34-42	syndrome	_
+1-15	43-47	with	_
+1-17	48-55	similar	_
+1-19	56-73	neuroradiological	_
+1-21	74-82	findings	_
+1-23	83-86	are	_
+1-25	87-95	reported	_
+1-26	95-96	.	_
+1-28	97-102	These	_
+1-30	103-110	include	_
+1-32	111-124	calcification	_
+1-34	125-127	of	_
+1-36	128-131	the	_
+1-38	132-136	falx	_
+1-40	137-144	cerebri	_
+1-42	145-148	and	_
+1-44	149-158	tentorium	_
+1-46	159-168	cerebelli	_
+1-48	169-172	and	_
+1-50	173-183	dysgenesis	_
+1-52	184-186	of	_
+1-54	187-190	the	_
+1-56	191-197	corpus	_
+1-58	198-206	callosum	_
+1-60	207-210	and	_
+1-62	211-217	vermis	_
+1-63	217-218	.	_
+1-65	219-226	Vermian	_
+1-67	227-237	dysgenesis	_
+1-69	238-241	was	_
+1-71	242-250	detected	_
+1-73	251-253	in	_
+1-75	254-258	both	_
+1-77	259-265	mother	_
+1-79	266-269	and	_
+1-81	270-278	daughter	_
+1-83	279-289	suggesting	_
+1-85	290-291	a	_
+1-87	292-302	previously	_
+1-89	303-315	unrecognized	_
+1-91	316-323	finding	_
+1-93	324-334	associated	_
+1-95	335-339	with	_
+1-97	340-346	Gorlin	_
+1-99	347-355	syndrome	_
+1-100	355-356	.	_

@@ -1,0 +1,51 @@
+#FORMAT=WebAnno TSV 3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.ner.type.NamedEntity|value
+
+
+#Text=A four generation autosomal dominant pedigree of brachydactyly type C is presented with its radiological features. The hands and feet were similarly affected. All the subjects showing these changes had shortening of the big toes and, in addition, had cupped ears.
+1-1	0-1	A	_
+1-3	2-6	four	_
+1-5	7-17	generation	_
+1-7	18-27	autosomal	HPO[0]
+1-9	28-36	dominant	HPO[0]
+1-11	37-45	pedigree	_
+1-13	46-48	of	_
+1-15	49-62	brachydactyly	HPO[1]
+1-17	63-67	type	_
+1-19	68-69	C	_
+1-21	70-72	is	_
+1-23	73-82	presented	_
+1-25	83-87	with	_
+1-27	88-91	its	_
+1-29	92-104	radiological	_
+1-31	105-113	features	_
+1-32	113-114	.	_
+1-34	115-118	The	_
+1-36	119-124	hands	_
+1-38	125-128	and	_
+1-40	129-133	feet	_
+1-42	134-138	were	_
+1-44	139-148	similarly	_
+1-46	149-157	affected	_
+1-47	157-158	.	_
+1-49	159-162	All	_
+1-51	163-166	the	_
+1-53	167-175	subjects	_
+1-55	176-183	showing	_
+1-57	184-189	these	_
+1-59	190-197	changes	_
+1-61	198-201	had	_
+1-63	202-212	shortening	_
+1-65	213-215	of	_
+1-67	216-219	the	_
+1-69	220-223	big	_
+1-71	224-228	toes	_
+1-73	229-232	and	_
+1-74	232-233	,	_
+1-76	234-236	in	_
+1-78	237-245	addition	_
+1-79	245-246	,	_
+1-81	247-250	had	_
+1-83	251-257	cupped	HPO[2]
+1-85	258-262	ears	HPO[2]
+1-86	262-263	.	_
