@@ -9,3 +9,5 @@
 ‘renal malformations’—HP: 0000792 (Abnormal renal morphology)
 
 4 - Negated phenotypes should be included—i.e. the text span ‘kidney anomalies’ in the context of ‘no kidney anomalies were found’ should be annotated with HP: 0000077 (Abnormality of the kidney). Here, the assumption was that negation can be dealt with at a different level and via other means.
+
+In: Groza T, Köhler S, Doelken S, et al. Automatic concept recognition using the Human Phenotype Ontology reference and test suite corpora. Database: The Journal of Biological Databases and Curation. 2015;2015:bav005. doi:10.1093/database/bav005.
