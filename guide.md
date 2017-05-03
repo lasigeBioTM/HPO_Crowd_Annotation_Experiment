@@ -41,6 +41,11 @@ Create Python script to annotate all the abstracts found in the [/data folder of
 # 2nd Day - Crowd Annotation 
 
 ### Goals
-- [ ] Crowd annotation activities 
+- [ ] Crowd annotation activity
 - [ ] Compare crowd annotations with gold annotations 
 - [ ] Results discussion
+
+#### 1. Go to [LaSIGE Webanno page](http://www.lasige.di.fc.ul.pt/webtools/webanno3/welcome.html)
+
+#### 2. Read the [guidelines](https://github.com/lasigeBioTM/HPO_Crowd_Annotation_Experiment/blob/master/annotation_guidelines.md)
+
