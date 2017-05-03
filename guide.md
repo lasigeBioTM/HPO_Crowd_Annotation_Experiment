@@ -2,7 +2,7 @@
 
 ### Goals
 - [ ] Create lexicon with terms from HPO (Human Phenotype Ontology)
-- [ ] Annotate abstracts using MER
+- [ ] Annotate abstracts using MER (Minimal Named-Entity Recognizer)
 
 ### Step-by-step guide
 
@@ -28,6 +28,15 @@ OBO is a file format that can be used to represent ontologies. Open the file in 
 
 Using Python programming language, extract from the .obo file all the names that represent some entity and put it in some .txt file. This will be our lexicon. It will contain all the terms in HPO. 
 
+#### 5. Install [MER (Minimal Named-Entity Recognizer)](https://github.com/lasigeBioTM/MER)
+
+Don't forget to run the test script to check if everything is ok. 
+
+#### 6. Play with MER
+
+#### 7. Create script to create annotations for all abstracts 
+
+Create Python script to annotate all the abstracts found in the [/data folder of this repo](https://github.com/lasigeBioTM/HPO_Crowd_Annotation_Experiment/tree/master/data).
 
 # 2nd Day - Crowd Annotation 
 
