@@ -67,5 +67,12 @@ DEMO BY INSTRUCTOR
 - Annotate all 6 documents
 - To facilitate, start with the first document and press "Next" in the "Document" tab when you're finished with a document
 
+#### 4. Discuss results
+
+- Compare crowd annotations with gold annotations
+- Change annotation acceptance threshold and see how does that affect the result
+- Are crowd annotations better than just using MER?
+- Should we use crowd annotations instead of gold annotations?
+
 
 
