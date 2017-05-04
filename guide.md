@@ -47,5 +47,25 @@ Create Python script to annotate all the abstracts found in the [/data folder of
 
 #### 1. Go to [LaSIGE Webanno page](http://www.lasige.di.fc.ul.pt/webtools/webanno3/welcome.html)
 
+- On the main page click in "Correction"
+- Choose the "BioSys Crowd Annotations Sandbox" project to experiment with the app
+
+[
+DEMO BY INSTRUCTOR
+* How to accept suggestion
+* How to add new annotation 
+* How to delete annotation
+* Walk through annotation of document 998578
+]
+
 #### 2. Read the [guidelines](https://github.com/lasigeBioTM/HPO_Crowd_Annotation_Experiment/blob/master/annotation_guidelines.md)
+
+#### 3. Annotate!
+
+- Change to the "BioSys Crowd Annotations" project
+- Use [this](http://compbio.charite.de/hpoweb/showterm) or [this](https://bioportal.bioontology.org/ontologies/HP/?p=classes&conceptid=root) app to help you
+- Annotate all 6 documents
+- To facilitate, start with the first document and press "Next" in the "Document" tab when you're finished with a document
+
+
 
