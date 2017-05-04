@@ -1,4 +1,6 @@
-# 1st Day - HPO Lexicon construction and MER annotations
+# Main Question: How do crowd annotations compare with expert annotations? 
+
+## 1st Day - HPO Lexicon construction and MER annotations
 
 ### Goals
 - [ ] Create lexicon with terms from HPO (Human Phenotype Ontology)
@@ -38,7 +40,7 @@ Don't forget to run the test script to check if everything is ok.
 
 Create Python script to annotate all the abstracts found in the [/data folder of this repo](https://github.com/lasigeBioTM/HPO_Crowd_Annotation_Experiment/tree/master/data).
 
-# 2nd Day - Crowd Annotation 
+## 2nd Day - Crowd Annotation 
 
 ### Goals
 - [ ] Crowd annotation activity
