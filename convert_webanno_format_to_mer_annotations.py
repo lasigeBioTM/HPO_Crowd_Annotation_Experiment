@@ -6,7 +6,7 @@ import os
 import shutil
 
 # Path to the folder where are the annotation results. This folder probably has the name "annotation"
-path_annotation_results = 'annotation_test/'
+path_annotation_results = 'crowd_annotations/annotation/'
 output_path = 'annotation_results_simple_tsv/'
 target_entity_type = 'HPO'
 
@@ -64,10 +64,10 @@ for folder_name in folders_names:
             if entity_type == '_':
                 continue
 
-            if target_entity_type in entity_type:
+            if target_entity_type in entity_type.upper():
 
                 # If in this columns there is just the entity we're looking for, create line for the output TSV
-                if target_entity_type == entity_type:
+                if target_entity_type == entity_type.upper():
                     mer_annotations.append('{}\t{}\t{}\n'.format(index_begin, index_end, token))
                 # Else we have to do some more work. Each multiword annotation is identified by a number and spans
                 # more than one line. I save all the information about a multiword annotation using a dictionary
